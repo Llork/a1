@@ -17,7 +17,8 @@
         
         <h2>About Me</h2>
         
-  			<p>Hi everyone, I'm David Kroll. I was born in Somerville, New Jersey, 1957. I have 3 sisters and one brother; my parents both passed away in recent years. I'm married to my lovely wife Elizabeth, we have two daughters, both in their 20's. After graduating high school in 1975, I attended M.I.T. for two years and then dropped out.  Went back to school years later, I have a Bachelors degree in Computer Science (1993) from Boston University.  Career-wise, my longest term employer (1986-2003) was Verizon (a.k.a. NYNEX, Bell Atlantic).  I did COBOL programming and various other technical stuff, also got into web design there around 2000 (HTML, Photoshop, Flash).  Since December 2012 I've worked for Harvard Business School as a web technologist. I'm taking this course to learn more about back-end programming, so that I'm in a better position to create and maintain non-static web sites.</p>
+  			<p>Hi everyone, I'm David Kroll. I was born in Somerville, New Jersey, 1957. I have 3 sisters and one brother; my parents both passed away in recent years. I'm married to my lovely wife Elizabeth, we have two daughters, both in their 20's. After graduating high school in 1975, I attended M.I.T. for two years and then dropped out.  Went back to school years later, I have a Bachelors degree in Computer Science (1993) from Boston University.  Career-wise, my longest term employer (1986-2003) was Verizon (a.k.a. NYNEX, Bell Atlantic).  I did COBOL programming and various other technical stuff, also got into web design there around 2000 (HTML, Photoshop, Flash).<br><br>
+Since December 2012 I've worked for Harvard Business School as a web technologist. I'm taking this course to learn more about back-end programming, so that I'm in a better position to create and maintain non-static web sites.</p>
             
 		<h2>Random Quote</h2>
         
